@@ -1,0 +1,28 @@
+body
+{
+    background-color: black;
+    color: white;
+}
+h1
+{
+    text-transform: capitalize;
+    font-size: 3rem;
+}
+/* Classes */
+.main-div
+{
+    text-align: center;
+    margin: 25px;
+    width: 50%;
+    margin-left: 25%;
+    font-family: "Libre Baskerville", serif;
+}
+.main-photo
+{
+    width: 100%;
+    border-width: 5px;
+    border-color: white;
+    border-style: solid;
+}
+
+
